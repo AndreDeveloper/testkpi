@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QualyteamChallengeTests", "QualyteamChallengeTests\QualyteamChallengeTests.csproj", "{23AB8761-E7ED-46F1-A524-356AECEC7288}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{BF5F4396-FE8B-4A51-B9E2-E21D224D7A71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuallyTeamDesafio.Domain", "QuallyTeamDesafio.Domain\QuallyTeamDesafio.Domain.csproj", "{22311564-7C48-4038-9F0A-4071EDA2DD08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23AB8761-E7ED-46F1-A524-356AECEC7288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23AB8761-E7ED-46F1-A524-356AECEC7288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23AB8761-E7ED-46F1-A524-356AECEC7288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23AB8761-E7ED-46F1-A524-356AECEC7288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22311564-7C48-4038-9F0A-4071EDA2DD08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22311564-7C48-4038-9F0A-4071EDA2DD08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22311564-7C48-4038-9F0A-4071EDA2DD08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22311564-7C48-4038-9F0A-4071EDA2DD08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{22311564-7C48-4038-9F0A-4071EDA2DD08} = {BF5F4396-FE8B-4A51-B9E2-E21D224D7A71}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16C04929-A425-4956-AFBE-5EF9EEFA7DC4}
+	EndGlobalSection
+EndGlobal
